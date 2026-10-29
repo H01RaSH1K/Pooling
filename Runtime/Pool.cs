@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Pool;
 
-namespace Pool
+namespace Anhertis.Pooling
 {
     public class Pool<T> : MonoBehaviour where T : MonoBehaviour
     {

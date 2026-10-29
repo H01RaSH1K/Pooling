@@ -1,6 +1,6 @@
 {
-    "name": "Pool",
-    "rootNamespace": "",
+    "name": "Pooling",
+    "rootNamespace": "Anhertis.Pooling",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
